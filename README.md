@@ -1,4 +1,4 @@
 # hello-world
 tutorial on how to use github
 
-Ther is nothing added at this point
+There is nothing to be added at this point
